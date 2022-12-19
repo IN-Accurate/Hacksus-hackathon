@@ -1,0 +1,13 @@
+.homeContainer{
+    margin-left: 0px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    
+}
+.formContainer{
+    position:fixed; left:40px;
+}
+.mapConfirmContainer{
+    margin-left:300px;
+}
